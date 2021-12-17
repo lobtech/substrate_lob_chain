@@ -121,9 +121,6 @@ std = [
     'pallet-octopus-appchain/std',
     'pallet-octopus-lpos/std',
     'pallet-octopus-upward-messages/std',
-    'pallet-aura/std',
-    'pallet-balances/std',
-    'pallet-nicks/std',
 ]
 
 [dependencies.pallet-nicks]
